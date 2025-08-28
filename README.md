@@ -1,2 +1,2 @@
 # Projeto-Casa-da-Cidade
-Projeto de um WebSite Igreja Casa da Cidade.
+Projeto do WebSite, Igreja Casa da Cidade.
